@@ -349,7 +349,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Type 1play | D3S Music`,"https://www.twitch.tv/wesamdabit")
+client.user.setGame(`1play | D3S Music`,"https://www.twitch.tv/wesamdabit")
 client.user.setStatus("dnd")
 });
 
