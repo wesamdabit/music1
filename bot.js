@@ -366,7 +366,7 @@ client.on('message', msg => {
 }
 })
 client.on('ready', () => { //code bot not leave room voice //Bot Is Online
-    client.channels.get("462726046442323971").join(); //by : D3S Community
+    client.channels.get("624905659699298304").join(); //by : D3S Community
     });
 
 
